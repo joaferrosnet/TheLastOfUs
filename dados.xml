@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+   <character id="1">
+        <name>Bugs Bunny</name>
+        <description>Bugs Bunny é um coelho esperto e astuto conhecido por suas habilidades de trapaceiro e seu famoso bordão "Eh... O que é que há, velhinho?". Ele é um dos personagens mais icônicos dos Looney Tunes.</description>
+    </character>
+    <character id="2">
+        <name>Pernalonga</name>
+        <description>Pernalonga é um coelho travesso e sarcástico que muitas vezes se encontra em confrontos com outros personagens dos Looney Tunes, especialmente Elmer Fudd.</description>
+    </character>
+    <character id="3">
+        <name>Papaléguas</name>
+        <description>Papaléguas é um pássaro extremamente rápido e astuto que sempre consegue escapar das tentativas de captura do Coiote. Ele é conhecido por sua agilidade e inteligência.</description>
+    </character>
+    <character id="4">
+        <name>Coiote</name>
+        <description>Coiote é um predador persistente e engenhoso que está sempre tentando capturar o Papaléguas. Apesar de sua determinação, suas tentativas geralmente acabam em fracasso devido à sua própria incompetência.</description>
+    </character>
+    <character id="5">
+        <name>Duck Dodgers</name>
+        <description>Duck Dodgers é uma paródia espacial do Pato Donald que enfrenta aventuras intergalácticas com seu fiel companheiro Cadete Espacial. Ele é conhecido por suas aventuras hilariantes e sua personalidade destemida.</description>
+    </character>
+    <character id="6">
+        <name>Taz-Mania</name>
+        <description>Taz-Mania, também conhecido como Taz, é um demônio da Tasmânia que é conhecido por sua voracidade e temperamento explosivo. Ele é retratado como uma criatura selvagem e imprevisível.</description>
+    </character>
+    <character id="7">
+        <name>Lola Bunny</name>
+        <description>Lola Bunny é uma coelha atlética e inteligente que frequentemente se junta aos outros personagens dos Looney Tunes em suas aventuras. Ela é conhecida por sua personalidade confiante e seu talento no basquete.</description>
+    </character>
+    <character id="8">
+        <name>Piu-Piu</name>
+        <description>Piu-Piu é um pequeno pássaro amarelo que é constantemente perseguido pelo Frajola. Apesar de seu tamanho diminuto, Piu-Piu é capaz de se defender e muitas vezes vira o jogo contra seu perseguidor.</description>
+    </character>
+    <character id="9">
+        <name>Frajola</name>
+        <description>Frajola é um gato ardiloso que passa a maior parte de seu tempo tentando capturar o Piu-Piu. Apesar de suas tentativas inúmeras, ele é frequentemente derrotado pelo pássaro astuto.</description>
+    </character>
+    <character id="10">
+        <name>Patolino</name>
+        <description>Patolino é um pato neurótico e engraçado que é frequentemente retratado como o melhor amigo de Pernalonga, embora suas interações muitas vezes resultem em confusão e caos.</description>
+    </character>
+    <character id="11">
+        <name>Speedy Gonzales</name>
+        <description>Speedy Gonzales é um pequeno rato mexicano conhecido por sua velocidade excepcional e seu lema "¡Ándale! ¡Ándale! ¡Arriba! ¡Arriba!". Ele é conhecido por sua astúcia e sua capacidade de superar desafios.</description>
+    </character>
+    <character id="12">
+        <name>Elmer Fudd</name>
+        <description>Elmer Fudd é um caçador de cabeça quente que passa a maior parte de seu tempo tentando capturar Pernalonga. Apesar de sua determinação, ele é frequentemente enganado pelo coelho esperto.</description>
+    </character>
+    <character id="13">
+        <name>Granny</name>
+        <description>Granny é uma senhora idosa e carinhosa que muitas vezes aparece nos desenhos dos Looney Tunes cuidando de seus animais de estimação, como Piu-Piu e Frajola.</description>
+    </character>
+    <character id="14">
+        <name>Marvin, o Marciano</name>
+        <description>Marvin, o Marciano, é um alienígena verde e estranho com planos frequentemente extravagantes para conquistar a Terra. Ele é conhecido por sua voz nasal e seu capacete de astronauta.</description>
+    </character>
+    <character id="15">
+        <name>Porky Pig</name>
+        <description>Porky Pig é um porco tímido e atrapalhado que muitas vezes se encontra em situações engraçadas com outros personagens dos Looney Tunes. Ele é conhecido por sua gagueira característica.</description>
+    </character>
+</personagens>
