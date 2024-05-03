@@ -1,63 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <personagens>
-   <character id="1">
-        <name>Bugs Bunny</name>
-        <description>Bugs Bunny é um coelho esperto e astuto conhecido por suas habilidades de trapaceiro e seu famoso bordão "Eh... O que é que há, velhinho?". Ele é um dos personagens mais icônicos dos Looney Tunes.</description>
+
+    <character>
+        <id>1</id>
+        <name>Joel</name>
+        <status>Vivo</status>
+        <description>Joel é um sobrevivente endurecido do mundo pós-apocalíptico, conhecido por sua determinação e habilidades de sobrevivência. Ele é o protagonista principal de "The Last of Us" e assume a responsabilidade de proteger Ellie a qualquer custo.</description>
     </character>
-    <character id="2">
-        <name>Pernalonga</name>
-        <description>Pernalonga é um coelho travesso e sarcástico que muitas vezes se encontra em confrontos com outros personagens dos Looney Tunes, especialmente Elmer Fudd.</description>
+   
+ <character>
+        <id>2</id>
+        <name>Ellie</name>
+          <status>Vivo</status>
+        <description>Ellie é uma jovem corajosa e resiliente que se torna uma figura central na jornada de Joel. Ela possui uma imunidade única ao fungo Cordyceps, que a torna crucial para a busca por uma cura para a epidemia que devastou a humanidade.</description>
     </character>
-    <character id="3">
-        <name>Papaléguas</name>
-        <description>Papaléguas é um pássaro extremamente rápido e astuto que sempre consegue escapar das tentativas de captura do Coiote. Ele é conhecido por sua agilidade e inteligência.</description>
+    <character>
+        <id>3</id>
+        <name>Tess</name>
+        <status>Morta</status>
+        <description>Tess é uma parceira de negócios e aliada de Joel, conhecida por sua astúcia e determinação. Ela desempenha um papel importante no início da história, ajudando Joel em suas empreitadas no mundo hostil de "The Last of Us".</description>
     </character>
-    <character id="4">
-        <name>Coiote</name>
-        <description>Coiote é um predador persistente e engenhoso que está sempre tentando capturar o Papaléguas. Apesar de sua determinação, suas tentativas geralmente acabam em fracasso devido à sua própria incompetência.</description>
+    <character>
+        <id>4</id>
+        <name>Bill</name>
+          <status>Vivo</status>
+        <description>Bill é um sobrevivente solitário e desconfiado que vive em uma cidade abandonada. Ele possui habilidades únicas de fabricação e é uma fonte valiosa de recursos para Joel e Ellie em sua jornada.</description>
     </character>
-    <character id="5">
-        <name>Duck Dodgers</name>
-        <description>Duck Dodgers é uma paródia espacial do Pato Donald que enfrenta aventuras intergalácticas com seu fiel companheiro Cadete Espacial. Ele é conhecido por suas aventuras hilariantes e sua personalidade destemida.</description>
+    <character>
+        <id>5</id>
+        <name>Tommy</name>
+          <status>Vivo</status>
+        <description>Tommy é o irmão mais novo de Joel e um ex-Firefly. Ele lidera um assentamento chamado Condado de Jackson, onde tenta manter um senso de civilização no mundo pós-apocalíptico.</description>
     </character>
-    <character id="6">
-        <name>Taz-Mania</name>
-        <description>Taz-Mania, também conhecido como Taz, é um demônio da Tasmânia que é conhecido por sua voracidade e temperamento explosivo. Ele é retratado como uma criatura selvagem e imprevisível.</description>
+    <character>
+        <id>6</id>
+        <name>Marlene</name>
+          <status>Vivo</status>
+        <description>Marlene é a líder dos Fireflies, um grupo de milícia que luta contra o regime militar em "The Last of Us". Ela é uma mulher forte e determinada que acredita na causa de encontrar uma cura para a infecção por Cordyceps.</description>
     </character>
-    <character id="7">
-        <name>Lola Bunny</name>
-        <description>Lola Bunny é uma coelha atlética e inteligente que frequentemente se junta aos outros personagens dos Looney Tunes em suas aventuras. Ela é conhecida por sua personalidade confiante e seu talento no basquete.</description>
+    <character>
+        <id>7</id>
+        <name>Henry</name>
+        <status>Morta</status>
+        <description>Henry é um sobrevivente que Joel e Ellie encontram durante sua jornada. Ele inicialmente parece hostil, mas depois se torna um aliado, acompanhando-os por territórios perigosos.</description>
     </character>
-    <character id="8">
-        <name>Piu-Piu</name>
-        <description>Piu-Piu é um pequeno pássaro amarelo que é constantemente perseguido pelo Frajola. Apesar de seu tamanho diminuto, Piu-Piu é capaz de se defender e muitas vezes vira o jogo contra seu perseguidor.</description>
+    <character>
+        <id>8</id>
+        <name>Sam</name>
+        <status>Morta</status>
+        <description>Sam é o irmão mais novo de Henry e, como ele, torna-se um companheiro de Joel e Ellie. Apesar de sua pouca idade, Sam mostra coragem e recursos diante da adversidade.</description>
     </character>
-    <character id="9">
-        <name>Frajola</name>
-        <description>Frajola é um gato ardiloso que passa a maior parte de seu tempo tentando capturar o Piu-Piu. Apesar de suas tentativas inúmeras, ele é frequentemente derrotado pelo pássaro astuto.</description>
+    <character>
+        <id>9</id>
+        <name>David</name>
+        <status>Morta</status>
+        <description>David é o líder de um grupo de sobreviventes no mundo pós-apocalíptico de "The Last of Us". Ele inicialmente parece amigável e prestativo, mas depois revela um lado mais sombrio de seu caráter.</description>
     </character>
-    <character id="10">
-        <name>Patolino</name>
-        <description>Patolino é um pato neurótico e engraçado que é frequentemente retratado como o melhor amigo de Pernalonga, embora suas interações muitas vezes resultem em confusão e caos.</description>
+    <character>
+        <id>10</id>
+        <name>Sarah</name>
+        <status>Morta</status>
+        <description>Sarah é a filha de Joel e um personagem importante em "The Last of Us". Ela é uma jovem gentil e carinhosa que tem um forte vínculo com seu pai. Sarah é apresentada no início do jogo, onde ela e Joel lutam para sobreviver em um mundo devastado por uma praga.</description>
     </character>
-    <character id="11">
-        <name>Speedy Gonzales</name>
-        <description>Speedy Gonzales é um pequeno rato mexicano conhecido por sua velocidade excepcional e seu lema "¡Ándale! ¡Ándale! ¡Arriba! ¡Arriba!". Ele é conhecido por sua astúcia e sua capacidade de superar desafios.</description>
-    </character>
-    <character id="12">
-        <name>Elmer Fudd</name>
-        <description>Elmer Fudd é um caçador de cabeça quente que passa a maior parte de seu tempo tentando capturar Pernalonga. Apesar de sua determinação, ele é frequentemente enganado pelo coelho esperto.</description>
-    </character>
-    <character id="13">
-        <name>Granny</name>
-        <description>Granny é uma senhora idosa e carinhosa que muitas vezes aparece nos desenhos dos Looney Tunes cuidando de seus animais de estimação, como Piu-Piu e Frajola.</description>
-    </character>
-    <character id="14">
-        <name>Marvin, o Marciano</name>
-        <description>Marvin, o Marciano, é um alienígena verde e estranho com planos frequentemente extravagantes para conquistar a Terra. Ele é conhecido por sua voz nasal e seu capacete de astronauta.</description>
-    </character>
-    <character id="15">
-        <name>Porky Pig</name>
-        <description>Porky Pig é um porco tímido e atrapalhado que muitas vezes se encontra em situações engraçadas com outros personagens dos Looney Tunes. Ele é conhecido por sua gagueira característica.</description>
-    </character>
+
 </personagens>
